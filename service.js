@@ -82,3 +82,8 @@ xhr.setRequestHeader("x-rapidapi-key", "486b8c4136mshecc5bb5954df9c2p1cba6ejsn01
 xhr.setRequestHeader("x-rapidapi-host", "weatherinfo.p.rapidapi.com");
 
 xhr.send(data);
+
+
+
+
+//  https://newsapi.org/v2/everything?domains=techcrunch.com,thenextweb.com&apiKey=c7fcd27513d94dd0b38d1142589057fc

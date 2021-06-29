@@ -356,7 +356,7 @@ img {
     left: 50%;
     width: 30px;
     height: 4px;
-    background: #4285F4;
+    background: crimson;
     transform: translate(-50%, -50%);
   }
   .form-toggle:before {
@@ -418,7 +418,7 @@ img {
   }
   .form-group button {
     outline: none;
-    background: #4285F4;
+    background: crimson;
     width: 100%;
     border: 0;
     border-radius: 4px;
@@ -433,7 +433,7 @@ img {
   }
   .two .form-group button {
     background: #FFFFFF;
-    color: #4285F4;
+    color: crimson;
   }
   .form-group .form-remember {
     font-size: 12px;
@@ -472,7 +472,7 @@ img {
     position: absolute;
     top: 0;
     left: 95%;
-    background: #4285F4;
+    background:crimson;
     width: 100%;
     min-height: 100%;
     padding: 60px calc(10% + 60px) 60px 60px;
@@ -527,6 +527,9 @@ img {
     width: 600px;
     margin: 20px auto 100px;
   }
+  .form-header h1{
+    color: crimson;
+  }
   .pen-footer a {
     color: #FFFFFF;
     font-size: 12px;
@@ -542,5 +545,5 @@ img {
   
   .cp-fab {
     background: #FFFFFF !important;
-    color: #4285F4 !important;
+    color: crimson !important;
   }
